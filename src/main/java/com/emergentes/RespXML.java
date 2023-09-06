@@ -22,14 +22,14 @@ public class RespXML extends HttpServlet {
             out.println("<CATALOGO>");
             out.println("<CD>");
             out.println("<TITULO>Tinta roja</TITULO>");
-            out.println("<ARTISTA>Andres Calamaro</ARTISTA>");
+            out.println("<ARTISTA>Adhemar Luis Yapu NIna</ARTISTA>");
             out.println("<ORIGEN>AR</ORIGEN>");
             out.println("<PRECIO>5.90</PRECIO>");
             out.println("<ANO>2006</ANO>");
             out.println("</CD>");
             out.println("<CD>"); // Abre la etiqueta CD nuevamente para el segundo CD
             out.println("<TITULO>La Lengua Popular</TITULO>");
-            out.println("<ARTISTA>Andres Calamaro</ARTISTA>");
+            out.println("<ARTISTA>Adhemar Luis Yapu Nina</ARTISTA>");
             out.println("<ORIGEN>AR</ORIGEN>");
             out.println("<PRECIO>9.90</PRECIO>");
             out.println("<ANO>2007</ANO>");

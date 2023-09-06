@@ -46,7 +46,7 @@ public class RespPDF extends HttpServlet {
                                 "BT\n" +
                                 "72 712 TD\n" +
                                 "/F1 12 Tf\n" +
-                                "(Respuesta generada desde PDF) Tj\n" +
+                                "(Adhemar Luis Yapau Nina) Tj\n" +
                                 "ET\n" +
                                 "endstream\n" +
                                 "endobj\n" +

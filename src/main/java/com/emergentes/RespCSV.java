@@ -23,7 +23,7 @@ public class RespCSV extends HttpServlet {
         try {
             // Genera el contenido CSV aquí
             out.println("Nombre, Edad, Ciudad");
-            out.println("Juan, 30, Buenos Aires");
+            out.println("Adhemar Luis Yapu Nina, 23, Bolivia");
             out.println("María, 25, Madrid");
             out.println("Pedro, 35, México");
 

@@ -19,9 +19,8 @@ public class RespJSON extends HttpServlet {
         PrintWriter out = response.getWriter();
         try {
             out.println("{\"empleados\":[");
-            out.println("{\"nombre\":\"Bruno\",\"apellidos\":\"Diaz\"},");
-            out.println("{\"nombre\":\"Juan Jose\",\"apellidos\":\"Paredes\"},");
-            out.println("{\"nombre\":\"Dolores\",\"apellidos\":\"Fuertes\"}");
+            out.println("{\"nombre\":\"Adhemar Luis \",\"apellidos\":\"Yapu Nina\"},");
+            
             out.println("]}"); // Agregar el cierre adecuado del objeto JSON
         } finally {
             out.close();

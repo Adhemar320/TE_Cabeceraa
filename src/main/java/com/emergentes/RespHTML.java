@@ -23,7 +23,7 @@ public class RespHTML extends HttpServlet {
             out.println("<title>Respuesta HTML</title>");            
             out.println("</head>");
             out.println("<body>");
-            out.println("<h1>HTML generado desde un Servlet</h1>");
+            out.println("<h1>Adhemar Luis Yapu Nina</h1>");
             out.println("</body>");
             out.println("</html>");
         } finally {

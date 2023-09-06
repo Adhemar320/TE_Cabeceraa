@@ -22,7 +22,7 @@ public class RespXLS extends HttpServlet {
         response.setHeader("Content-Disposition", "attachment;filename=archivo.xls");
         PrintWriter out = response.getWriter();
         try {
-            out.println("Respuesta generada desde Excel");
+            out.println("Adhemar Luis Yapu Nina");
             out.println("100");
             out.println("208");
             out.println("La suma es:\t");
